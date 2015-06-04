@@ -1,11 +1,10 @@
-realhome:/var/www/
-realhome:realhome
+#realhome:/var/www/
+#realhome:realhome
 
 domain:mechtilde.neu
-globalpath:/var/www/www
-
+globalpath:
 #homepath:sampleProject # path to project root-folder
-homepath:realhome + developer/mechtilde.neu
+homepath:
 templatespath:content
 
 docrootpath:/var/www/mechtilde.neu/htdocs/
