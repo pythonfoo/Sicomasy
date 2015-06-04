@@ -50,11 +50,11 @@ class Generate(object):
 			print(_("Usage:") +" generate [-h|--help] " + _("[-a] generate all pages, [-f] generate filelist, [-p] gereate directories"))
 			sys.exit(1)
 
-		self.mainConfig = config.main("config.txt")
-		self.seitendict = config.main("seiten.txt")
+		self.mainConfig = config.main("sampleProject/config.txt")
+		self.seitendict = config.main("sampleProject/seiten.txt")
 
 	def readIndexTemplate(self):
-		with open("template.index", "r") as f:
+		with open("sampleProject/templates/template.index", "r") as f:
 			self.IndexTemplate = f.read()
 
 		print("<h1>WWW2.0</h1>\n<p>Ich suche aktuelle Änderungen.</p>\n")
@@ -82,7 +82,7 @@ class Generate(object):
 			Site_siteid = Site_siteid.replace("Sites", "")
 
 			Site_language = s[1]
-			Site_languagepath = config.main("sprachen.txt")[s[1] + "-pfad"]
+			Site_languagepath = config.main("sampleProject/sprachen.txt")[s[1] + "-pfad"]
 			Site_actpath = self.seitendict[s[0] +"-" + s[1] + "-ordner"]
 			Site_file = self.seitendict[s[0] +"-" + s[1] + "-datei"]
 
