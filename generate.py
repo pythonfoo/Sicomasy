@@ -71,20 +71,20 @@ class Generate(object):
 		}"""
 
 	def generatePages(self):
-		seitenzaehler=0;
-		file_list = "";
+		pageCounter = 0
+		file_list = ""
 		print("\n<p>Seiten werden geschrieben:\n")
 
 		for Site in self.seitendict:
-			s = Site.split("-")
+			urlPartAr = Site.split("-")
 
-			Site_siteid = s[0]
+			Site_siteid = urlPartAr[0]
 			Site_siteid = Site_siteid.replace("Sites", "")
 
-			Site_language = s[1]
-			Site_languagepath = config.main("sampleProject/sprachen.txt")[s[1] + "-pfad"]
-			Site_actpath = self.seitendict[s[0] +"-" + s[1] + "-ordner"]
-			Site_file = self.seitendict[s[0] +"-" + s[1] + "-datei"]
+			Site_language = urlPartAr[1]
+			Site_languagepath = config.main("sampleProject/sprachen.txt")[urlPartAr[1] + "-pfad"]
+			Site_actpath = self.seitendict[urlPartAr[0] +"-" + urlPartAr[1] + "-ordner"]
+			Site_file = self.seitendict[urlPartAr[0] +"-" + urlPartAr[1] + "-datei"]
 
 			if Site_file != "":
 				if Site_languagepath[-1:] != "" and Site_languagepath[-1:] != "/":
@@ -125,9 +125,9 @@ class Generate(object):
 						file_list += "Target "
 
 					print(".")
-					seitenzaehler += 1
+					pageCounter += 1
 
-		print("\n<br />"+ str(seitenzaehler) + " Seiten wurden geschrieben.</p>\n")
+		print("\n<br />"+ str(pageCounter) + " Seiten wurden geschrieben.</p>\n")
 
 		if len(file_list) > 0:
 			print("FILELIST: " + str(file_list) + "\n")
