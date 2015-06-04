@@ -38,7 +38,8 @@ class makeConfig(object):
 				line = self.dealComments(line)
 				if line != "":
 					entry = line.split(":")
-					items[entry[0].strip()] = entry[1].strip()
+					if len(entry) >= 2:
+						items[entry[0].strip()] = entry[1].strip()
 			fobj.close()
 		else:
 			items = {}
