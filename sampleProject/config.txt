@@ -1,10 +1,13 @@
-#realhome:/var/www/
-#realhome:realhome
+realhome:/var/www/
+realhome:realhome
+
 domain:mechtilde.neu
 globalpath:/var/www/www
+
 #homepath:sampleProject # path to project root-folder
-#homepath:realhome + developer/mechtilde.neu
-#templatespath:/var/www/mechtilde.neu/templates
+homepath:realhome + developer/mechtilde.neu
+templatespath:content
+
 docrootpath:/var/www/mechtilde.neu/htdocs/
 domainconfig:mechtilde.de
 descriptionconfig:Hobbys von Mechtilde Stehmann

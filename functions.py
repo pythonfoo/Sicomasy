@@ -29,10 +29,10 @@ import re
 class Funktionen(object):
 
 	def __init__(self):
-		self.style = config.main("style.txt")
-		self.mainConfig = config.main("config.txt")
-		self.seitendict = config.main("seiten.txt")
-		self.sprachendict =config.main("sprachen.txt")
+		self.style = config.main("sampleProject/style.txt")
+		self.mainConfig = config.main("sampleProject/config.txt")
+		self.seitendict = config.main("sampleProject/seiten.txt")
+		self.sprachendict =config.main("sampleProject/sprachen.txt")
 
 		self.templates = {
 		"head" : "head.py",
@@ -98,6 +98,7 @@ class Funktionen(object):
 		self.Site_file = Site_file
 
 		self.Site_domain = self.mainConfig["domain"]
+		
 
 		subdomain = self.getConfig("subdomain")
 
