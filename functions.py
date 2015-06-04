@@ -475,6 +475,11 @@ class Funktionen(object):
 						else:
 							ai = 0
 						exec("import " + template[0:-3])
+					else:
+						print('DOES NOT EXIST:' + self.mainConfig["homepath"] + "/" + self.templates[Tag])
+						print('DOES NOT EXIST:' + self.mainConfig["globalpath"] + "/" + self.templates[Tag])
+						print('ABORTED!')
+						exit(1)
 
 					Content = eval(template[ai:-3] + ".main(Content, paradict)")
 					ThisTemplate = ThisTemplate.replace("@@@SCR_" + Tag + "@@@", Content)
