@@ -460,24 +460,27 @@ class Funktionen(object):
 						"url" : self.Global['url'],
 						"act_file" : self.Site_file,
 						}
-					if os.path.isfile(self.mainConfig["homepath"] + "/" + self.templates[Tag]):
-						template = self.mainConfig["homepath"] + "/" + self.templates[Tag]
+
+					homePathTemplate = os.path.join(self.mainConfig["homepath"], self.templates[Tag])
+					globalPathTemplate = os.path.join(self.mainConfig["globalpath"], self.templates[Tag])
+					if os.path.isfile(homePathTemplate):
+						template = homePathTemplate
 						if template[0:2]=="./":
 							ai = 2
 						else:
 							ai = 0
 						exec("import " + template[ai:-3])
 
-					elif os.path.isfile(self.mainConfig["globalpath"] + "/" + self.templates[Tag]):
-						template = self.mainConfig["globalpath"] + "/" + self.templates[Tag]
+					elif os.path.isfile(globalPathTemplate):
+						template = globalPathTemplate
 						if template[0:2]=="./":
 							ai = 2
 						else:
 							ai = 0
 						exec("import " + template[0:-3])
 					else:
-						print('DOES NOT EXIST:' + self.mainConfig["homepath"] + "/" + self.templates[Tag])
-						print('DOES NOT EXIST:' + self.mainConfig["globalpath"] + "/" + self.templates[Tag])
+						print('DOES NOT EXIST:' + homePathTemplate)
+						print('DOES NOT EXIST:' + globalPathTemplate)
 						print('ABORTED!')
 						exit(1)
 
