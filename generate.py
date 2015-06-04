@@ -119,7 +119,7 @@ class Generate(object):
 							f.write(ThisSite)
 					except:
 						print("<p>error writing file: " + Target + "</p>\n")
-						("ThisSite: " + ThisSite)
+						print("ThisSite: " + ThisSite)
 
 					if self.ARGV_GENFILELIST:
 						file_list += "Target "
