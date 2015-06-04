@@ -1,0 +1,21 @@
+<body>
+<div id="header">
+  @@@SCR_head@@@
+</div>
+<div id="wrapper">
+  <div id="navigation">
+    @@@SCR_navi@@@
+  </div>
+  <div id="content">
+    @@@SCR_subnavi2@@@
+    @@@CONTENT@@@
+  </div>
+</div>
+<div id="navi_lang">
+   @@@SCR_navi_lang@@@
+</div>
+<div id="footer">
+  @@@SCR_footer@@@
+</div>
+</body>
+</html>

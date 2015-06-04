@@ -1,0 +1,377 @@
+Sites1-de-title:Homepage - Mechtilde
+Sites1-en-title:Homepage -Mechtilde
+Sites1-de-description:&Uuml;bersichtsseite der Interessengebiete
+Sites1-en-description:Overview of interests
+Sites1-de-text:Startseite
+Sites1-en-text:Home
+Sites1-de-datei:index.html
+Sites1-en-datei:index.html
+Sites1-de-ordner: 
+Sites1-en-ordner: 
+
+Sites2-de-title:Impressum
+Sites2-de-description:Impressum
+Sites2-de-text:Impressum
+Sites2-de-datei:impressum.html
+Sites2-de-ordner: 
+
+Sites3-de-title:Biologie im Garten
+Sites3-de-description:Biologie im Garten
+Sites3-de-text:Garten-Biologie
+Sites3-de-datei:garten.html
+Sites3-de-ordner:
+
+Sites4-de-title:Ziel und Zweck der Ver&ouml,ffentlichung
+Sites4-de-description:Ziel und Zweck der Ver&ouml,ffentlichung
+Sites4-de-text:Intention
+Sites4-de-datei:intention.html
+Sites4-de-ordner: 
+
+Sites5-de-title:Datenbanken und OpenOffice.org
+Sites5-de-description:Datenbanken und OpenOffice.org
+Sites5-de-text:Datenbanken
+Sites5-de-datei:datenbank.html
+Sites5-de-ordner: 
+
+Sites6-de-title:Qualit&auml,tssicherung
+Sites6-de-description:Qualit&auml,tssicherung
+Sites6-de-text:Qualit&auml,tssicherung
+Sites6-de-datei:qualitaetssicherung.html
+Sites6-de-ordner: 
+
+Sites7-de-title:Angebot
+Sites7-de-description:Angebot
+Sites7-de-text:Angebot
+Sites7-de-datei:angebot.html
+Sites7-de-ordner: 
+
+Sites8-de-title:Person
+Sites8-de-description:Person
+Sites8-de-text:Person
+Sites8-de-datei:person.html
+Sites8-de-ordner: 
+
+Sites10-de-title:Datenbankanbindung an Openoffice.org ab 2.0
+Sites10-de-description:Datenbankanbindung an OpenOffice.org - Probleml&ouml,sungen
+Sites10-de-text:MySQL -&gt, OpenOffice.org 2.x
+Sites10-de-datei:index.html
+Sites10-de-ordner:mysql2ooo20/
+
+Sites11-de-title:MySQL mit OpenOffice.org verbinden
+Sites11-de-description:MySQL mit OpenOffice.org verbinden
+Sites11-de-text:HowTo Mysql to OO.o 2.x
+Sites11-de-datei:howtomysql2ooo20.html
+Sites11-de-ordner:mysql2ooo20/
+
+Sites12-de-title:Summenproblem
+Sites12-de-description:Summenproblem mit ODBC
+Sites12-de-text:Summen und ODBC
+Sites12-de-datei:summenproblem.html
+Sites12-de-ordner:mysql2ooo20/
+
+Sites13-de-title:Loook
+Sites13-de-description:
+Sites13-de-text:Loook
+Sites13-de-datei:index.html
+Sites13-de-ordner:Loook/
+
+Sites20-de-title:OpenOffice.org
+Sites20-de-description:OpenOffice.org Projekte
+Sites20-de-text:OpenOffice.org
+Sites20-de-datei:index.html
+Sites20-de-ordner:openoffice.org/
+
+Sites21-de-title:OpenOffice.org und Datenbanken
+Sites21-de-description:Eine MS-Access Datenbankanwendung wird nach OpenOffice.org und MySQL migriert
+Sites21-de-text:Datenbanken
+Sites21-de-datei:datenbank.html
+Sites21-de-ordner:ooodatenbank/
+
+Sites211-de-title:Einf&uuml,hrung in OpenOffice.org und Datenbanken
+Sites211-de-description:Einf&uuml,hrung in OpenOffice.org und Datenbanken
+Sites211-de-text:Einf&uuml,hrung
+Sites211-de-datei:Einfuehrung.html
+Sites211-de-ordner:ooodatenbank/
+Sites211-de-index_chapter:21
+Sites211-de-next:212
+
+Sites212-de-title:Pr&auml,sentation der Datenbank
+Sites212-de-description:Pr&auml,sentation der Datenbank
+Sites212-de-text:Pr&auml,sentation
+Sites212-de-datei:Praesentation.html
+Sites212-de-ordner:ooodatenbank/
+Sites212-de-index_chapter:21
+Sites212-de-prev:211
+Sites212-de-next:213
+
+Sites213-de-title:Migration der Datenbank
+Sites213-de-description:Migration der Datenbank
+Sites213-de-text:Migration
+Sites213-de-datei:Migration.html
+Sites213-de-ordner:ooodatenbank/
+Sites213-de-index_chapter:21
+Sites213-de-prev:212
+Sites213-de-next:214
+
+Sites214-de-title:Erstellung der Datenbank
+Sites214-de-description:
+Sites214-de-text:Erstellung
+Sites214-de-datei:Erstellung.html
+Sites214-de-ordner:ooodatenbank/
+Sites214-de-index_chapter:21
+Sites214-de-prev:213
+Sites214-de-next:215
+
+Sites215-de-title:Nutzung der Datenbank
+Sites215-de-description:
+Sites215-de-text:Nutzung
+Sites215-de-datei:Nutzung.html
+Sites215-de-ordner:ooodatenbank/
+Sites215-de-index_chapter:21
+Sites215-de-prev:214
+Sites215-de-next:216
+
+Sites216-de-title:Migration der Daten
+Sites216-de-description:
+Sites216-de-text:Datenmigration
+Sites216-de-datei:Datenmigration.html
+Sites216-de-ordner:ooodatenbank/
+Sites216-de-index_chapter:21
+Sites216-de-prev:215
+Sites216-de-next:217
+
+Sites217-de-title:Erstellung eines Formulars
+Sites217-de-description:
+Sites217-de-text:Formular
+Sites217-de-datei:Formular.html
+Sites217-de-ordner:ooodatenbank/
+Sites217-de-index_chapter:21
+Sites217-de-prev:216
+Sites217-de-next:218
+
+
+# 	"Sites221-de-title:
+# 	"Sites221-de-description:
+# 	"Sites221-de-text:Einfuehrung
+# 	"Sites221-de-datei:bla2.html
+# 	"Sites221-de-ordner:documentation/
+# 	"Sites221-de-index_chapter:220
+# 	"Sites221-de-next:222
+# 	"Sites221-de-prev:220
+# 	"Sites221-de-next:221
+
+Sites22-de-title:Informationen zum Hilfereview
+Sites22-de-description:Informationen zum Hilfereview
+Sites22-de-text:Hilfereview
+Sites22-de-datei:HilfeReview.html
+Sites22-de-ordner:misc-openoffice.org/
+
+Sites80-de-title:Mail und Kalender
+Sites80-de-description:Mail und Kalender
+Sites80-de-text:Mail und Kalender
+Sites80-de-datei:index.html
+Sites80-de-ordner:Mail-Kalender/
+
+Sites81-de-title:Mail und Kalender - Installation von Thunderbird und Lightning
+Sites81-de-description:Mail und Kalender - Installation von Thunderbird und Lightning
+Sites81-de-text:Installation-Thunderbird
+Sites81-de-datei:thunderbird.html
+Sites81-de-ordner:Mail-Kalender/
+
+Sites82-de-title:Mail und Kalender - Installation des Kalenderservers
+Sites82-de-description:Mail und Kalender - Installation des Kalenderservers
+Sites82-de-text:WebCalendar-Installation
+Sites82-de-datei:webcalendar-installation.html
+Sites82-de-ordner:Mail-Kalender/
+
+Sites83-de-title:Mail und Kalender - Konfiguration des Kalenderservers
+Sites83-de-description:Mail und Kalender - Konfiguration des Kalenderservers
+Sites83-de-text:WebCalendar-Konfiguration
+Sites83-de-datei:webcalendar-konfiguration.html
+Sites83-de-ordner:Mail-Kalender/
+
+Sites84-de-title:Mail und Kalender - Konfiguration von Lightning
+Sites84-de-description:Mail und Kalender - Konfiguration von Lightning
+Sites84-de-text:Lightning-Konfiguration
+Sites84-de-datei:lightning-konfiguration.html
+Sites84-de-ordner:Mail-Kalender/
+
+Sites85-de-title:Mail und Kalender - Konfiguration von Apache
+Sites85-de-description:Mail und Kalender - Konfiguration von Apache
+Sites85-de-text:Apache-Konfiguration
+Sites85-de-datei:apache-konfiguration.html
+Sites85-de-ordner:Mail-Kalender/
+
+Sites30-de-title:Debian-Women
+Sites30-de-description:Debian- Das Betriebssystem
+Sites30-de-text:Debian
+Sites30-de-datei:index.html
+Sites30-de-ordner:debian-women/
+
+#	"Sites31-de-title:Installation des WLAN-Treibers RA-Link
+#	"Sites31-de-description:Installation des WLAN-Treibers RA-Link
+#	"Sites31-de-text:RA-Link&nbsp,RT2790
+#	"Sites31-de-datei:Ra-Link.html
+#	"Sites31-de-ordner:debian-women/
+
+Sites32-de-title:Einrichten von EGVP
+Sites32-de-description:Einrichten von EGVP
+Sites32-de-text:EGVP-Einrichten
+Sites32-de-datei:egvp.html
+Sites32-de-ordner:debian-women/
+
+#	"Sites321-de-title:Problem mit EGVP
+#	"Sites321-de-description:Problem mit EGVP
+#	"Sites321-de-text:EGVP-Problem
+#	"Sites321-de-datei:egvpinstallation.html
+#	"Sites321-de-ordner:debian-women/
+
+#	"Sites33-de-title:Enigmail
+#	"Sites33-de-description:Update von Enigmail
+#	"Sites33-de-text:Enigmail-Update
+#	"Sites33-de-datei:enigmail.html
+#	"Sites33-de-ordner:debian-women/
+
+#	"Sites34-de-title:Fehler melden in Debian
+#	"Sites34-de-description:Fehler melden in Debian
+#	"Sites34-de-text:Bug-Report
+#	"Sites34-de-datei:bugreporting.de.html
+#	"Sites34-de-ordner:debian-women/
+
+#	"Sites35-de-title:Kartenleser von Reiner-SCT
+#	"Sites35-de-description:Kartenleser von Reiner-SCT
+#	"Sites35-de-text:Kartenleser
+#	"Sites35-de-datei:kartenleser.html
+#	"Sites35-de-ordner:debian-women/
+
+#	"Sites36-de-title:UMTS-Stick konfigurieren
+#	"Sites36-de-description:Konfiguration eines UMTS-Sticks unter Debian
+#	"Sites36-de-text:UMTS-Stick
+#	"Sites36-de-datei:UMTS-Stick.html
+#	"Sites36-de-ordner:debian-women/
+
+#	"Sites37-de-title:SSH-Portweiterleitun
+#	"Sites37-de-description:Weiterleitung eines Portes per SSH
+#	"Sites37-de-text:Portforwarding
+#	"Sites37-de-datei:Portforwarding.html
+#	"Sites37-de-ordner:debian-women/
+
+#	"Sites40-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites40-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites40-de-text:Diplom- Arbeit
+#	"Sites40-de-datei:index.html
+#	"Sites40-de-ordner:diplom/
+
+#	"Sites41-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites41-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites41-de-text:Einleitung
+#	"Sites41-de-datei:einleitung.html
+#	"Sites41-de-ordner:diplom/
+
+#	"Sites42-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites42-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites42-de-text:Biosynthese
+#	"Sites42-de-datei:biosynthese.html
+#	"Sites42-de-ordner:diplom/
+
+#	"Sites43-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites43-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites43-de-text:Darstellung des Verfahrens
+#	"Sites43-de-datei:verfahrensdarstellung.html
+#	"Sites43-de-ordner:diplom/
+
+#	"Sites44-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites44-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites44-de-text:Methoden
+#	"Sites44-de-datei:methoden.html
+#	"Sites44-de-ordner:diplom/
+
+#	"Sites45-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites45-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites45-de-text:Ergebnisse
+#	"Sites45-de-datei:ergebnisse.html
+#	"Sites45-de-ordner:diplom/
+
+#	"Sites46-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites46-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites46-de-text:Zusammenfassung
+#	"Sites46-de-datei:zusammenfassung.html
+#	"Sites46-de-ordner:diplom/
+
+#	"Sites47-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites47-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites47-de-text:Literatur
+#	"Sites47-de-datei:literatur.html
+#	"Sites47-de-ordner:diplom/
+
+#	"Sites48-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites48-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites48-de-text:Anhang
+#	"Sites48-de-datei:anhang.html
+#	"Sites48-de-ordner:diplom/
+
+# 	"Sites49-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites49-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites49-de-text:Programme
+#	"Sites49-de-datei:programm.html
+#	"Sites49-de-ordner:diplom/
+
+#	"Sites400-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites400-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites400-de-text:
+#	"Sites400-de-datei:eikosanoide.html
+#	"Sites400-de-ordner:diplom/
+
+#	"Sites401-de-title:Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC
+#	"Sites401-de-description:Meine Diplom-Arbeit - Biosynthese und Trennung von Arachidons&auml,ure-Metaboliten mittels der HPLC 
+#	"Sites401-de-text:
+#	"Sites401-de-datei:hydroxieikosatetraensaeuren.html
+#	"Sites401-de-ordner:diplom/
+
+Sites50-de-title:Verwendete Lizenz
+Sites50-de-description:Verwendete Lizenz
+Sites50-de-text:Lizenz
+Sites50-de-datei:index.html
+Sites50-de-ordner:Lizenz/
+
+Sites51-de-title:Informationen zur GPL
+Sites51-de-description:Informationen zur GPL
+Sites51-de-text:Lizenzen
+Sites51-de-datei:GPL-Info.html
+Sites51-de-ordner:Lizenz/
+
+#	"Sites60-de-title:Bodenanalyse
+#	"Sites60-de-description:Bodenanalyse
+#	"Sites60-de-text:Bodenanlyse
+#	"Sites60-de-datei:index.html
+#	"Sites60-de-ordner:bodenanalyse/
+
+#	"Sites70-de-title:Pflanzenschutz
+#	"Sites70-de-description:Pflanzenschutz
+#	"Sites70-de-text:Pflanzenschutz
+#	"Sites70-de-datei:index.html
+#	"Sites70-de-ordner:pflanzenschutz/
+
+#	"Sites80-de-title:Business-Anwendungen
+# 	"Sites-de-description:
+# 	"Sites-de-text:
+# 	"Sites-de-datei:index.html
+# 	"Sites-de-ordner:Business
+
+#	"Sites81-de-title:WINE
+#	"Sites81-de-description:WINE - Wine is not an emulator
+# 	"Sites-de-text:
+# 	"Sites-de-datei:
+# 	"Sites-de-ordner:Business
+
+#	"Sites90-de-title:Vortr&auml,ge
+#	"Sites90-de-description:Vortragsfolien
+#	"Sites90-de-text:
+#	"Sites90-de-datei:vortraege.html
+#	"Sites90-de-ordner:
+
+# 	"Sites-de-title:
+# 	"Sites-de-description:
+# 	"Sites-de-text:
+# 	"Sites-de-datei:
+# 	"Sites-de-ordner:

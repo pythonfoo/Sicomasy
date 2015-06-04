@@ -1,0 +1,18 @@
+#realhome:/var/www/
+#realhome:realhome
+domain:mechtilde.neu
+globalpath:/var/www/www
+homepath:. # Aktuelles Verzeichnis
+#homepath:realhome + developer/mechtilde.neu
+templatespath:/var/www/mechtilde.neu/templates
+docrootpath:/var/www/mechtilde.neu/htdocs/
+domainconfig:mechtilde.de
+descriptionconfig:Hobbys von Mechtilde Stehmann
+titleconfig:Mechtilde Stehmann
+publisherconfig:Mechtilde Stehmann, Langenfeld
+authorconfig:Mechtilde Stehmann, Langenfeld
+locationconfig:Langenfeld - Germany
+robotsconfig:index,follow
+languageconfig:de
+
+lang:de,en

@@ -1,0 +1,25 @@
+# Subnavi fuer OpenOffice.org (ID: 20)
+de-20-0 : 21		# Datenbanken
+de-20-1 : 12	# Summen und ODBC
+de-20-2 : 22	# Hilfereview
+de-20-3 : 11	# HowTo MySQL to OO
+
+# Subnavi fuer Debian (ID: 30)
+de-30-0 : 13		# Loook
+de-30-1 : 32		# Einrichtung von EGVP
+# de-30-2 : 321	# Problem mit EGVP
+# de-30-3 : 34	# Bug-Report
+# de-30-4 : 35	# Kartenleser
+# de-30-5 : 36	# UMTS-Stick
+# de-30-6 : 37	# Portforwarding
+
+# Subnavi fuer Diplomarbeit (ID: 40)
+de-40-0 : 41	# Einleitung
+de-40-1 : 42
+de-40-2 : 43
+de-40-3 : 44
+de-40-4 : 45
+de-40-5 : 46
+de-40-6 : 47
+de-40-7 : 48
+# Anhang

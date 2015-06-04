@@ -1,0 +1,366 @@
+de-andere_galerien : Andere Fotogalerien
+en-andere_galerien : other galleries
+es-andere_galerien : otra galerias
+eu-andere_galerien : 
+fr-andere_galerien : autre galeries des photos
+nl-andere_galerien : Andere Galerie
+
+de-auf : auf
+en-auf : at
+fr-auf : &aacute;
+
+de-baskisch : Baskisch
+en-baskisch : 
+es-baskisch : vascuence
+eu-baskisch : Euskera
+fr-baskisch : 
+nl-baskisch : 
+gr-baskisch : 
+
+de-bild : Bild
+en-bild : picture
+es-bild : ilustraci&oacute;n
+eu-bild : 
+fr-bild : image
+nl-bild : Foto
+gr-bild :
+tr-bild : Resim
+
+de-bild_vor : N&auml;chstes Bild
+en-bild_vor : next picture
+es-bild_vor : 
+eu-bild_vor : 
+fr-bild_vor : prochaine image
+nl-bild_vor : &egrave;&egrave;n Foto verder
+gr-bild_vor : 
+tr-bild_vor : diyer Resim
+
+de-bild_zurueck : Ein Bild zur&uuml;ck
+en-bild_zurueck : previos picture
+es-bild_zurueck : 
+eu-bild_zurueck : 
+fr-bild_zurueck : image pr&eacute;c&eacute;dente
+nl-bild_zurueck : &egrave;&egrave;n Foto terug
+gr-bild_zurueck : 
+tr-bild_zurueck : Resim
+
+de-byte : Byte
+en-byte : byte
+es-byte : byte
+eu-byte : byte
+fr-byte : octet
+nl-byte : byte
+gr-byte : byte
+
+de-contact : Kontakt
+en-contact : Contact
+es-contact : Cont&aacute;ctenos
+eu-contact : Kontaktua
+fr-contact : contact
+nl-contact : Contact
+gr-contact : 
+tr-contact : Kontakt
+
+de-deutsch : Deutsch
+br-deutsch : alemão
+en-deutsch : German
+es-deutsch : alem&aacute;n
+eu-deutsch : Alemanez
+fr-deutsch : allemand
+ia-deutsch : German
+it-deutsch : Tedesco
+nl-deutsch : Duits
+gr-deutsch : &gamma;&epsilon;&rho;&mu;&alpha;&nu;&iota;&kappa;&#972;
+tr-deutsch : Almanca
+
+de-englisch : Englisch
+br-englisch : inglês
+en-englisch : English
+es-englisch : ingl&eacute;s
+eu-englisch : 
+fr-englisch : anglais
+ia-englisch : Anglese
+nl-englisch : Engels
+gr-englisch : &alpha;&gamma;&gamma;&lambda;&iota;&kappa;&#972;
+tr-englisch : Ingilizce
+
+de-franzoesisch : Franz&ouml;sisch
+en-franzoesisch : french
+es-franzoesisch : franc&eacute;s
+eu-franzoesisch : 
+fr-franzoesisch : fran&ccedil;ais
+ia-franzoesisch : Francese
+nl-franzoesisch : Frans
+gr-franzoesisch : &gamma;&alpha;&lambda;&lambda;&iota;&kappa;&#972;
+tr-franzoesisch : Frans&#305;zca
+
+de-galerie : Fotogalerie
+en-galerie : Photo Gallery
+es-galerie : galer&iacute;a
+eu-galerie : 
+fr-galerie : La Galerie des Photos
+nl-galerie : Galerie
+gr-galerie : 
+tr-galerie : Fotograf&#287;alarisi
+
+de-galerie_file : foto_galerie
+en-galerie_file : photo_gallery
+es-galerie_file : foto_galeria
+fr-galerie_file : galerie_des_photos
+nl-galerie_file : foto_galerie
+
+de-galerien : Fotogalerien
+en-galerien : Photo Galleries
+es-galerien : galer&iacute;as
+eu-galerien : 
+fr-galerien : Les Galeries des Photos
+nl-galerien : Galerien
+gr-galerien : 
+tr-galerien : Foto$#287;raf&#287;alarile
+
+de-galerie_index : Galerie-Index
+en-galerie_index : index of galleries
+es-galerie_index : 
+eu-galerie_index : 
+fr-galerie_index : index du galeries
+nl-galerie_index : galerie index
+gr-galerie_index : 
+
+de-google_suche : Suchen mit Google
+br-google_suche : Pesquisar Google
+en-google_suche : Search Google
+eu-google_suche : Bilaketa Google
+es-google_suche : B&uacute;squeda Google
+fr-google_suche : Recherchez Google
+ia-google_suche : Cercar Google
+it-google_suche : cerca Google
+nl-google_suche : Zoeken met Google
+
+de-griechisch : Griechisch
+en-griechisch : greek
+es-griechisch : griego
+eu-griechisch : 
+fr-griechisch : grec
+ia-griechisch : Grec
+nl-griechisch : 
+gr-griechisch : &Epsilon;&Lambda;&Lambda;&Eta;&Nu;&Iota;&Kappa;&Alpha;
+
+de-hollaendisch : Niederländisch
+en-hollaendisch : dutch
+es-hollaendisch : holand&eacute;s
+eu-hollaendisch : 
+fr-hollaendisch : pays-bas
+ia-hollaendisch : Hollandese
+nl-hollaendisch : Nederlands
+gr-hollaendisch : 
+
+de-home : Startseite
+br-home : P&aacute;gina Inicial
+en-home : Home
+es-home : P&aacute;gina Principal
+eu-home : Home
+fr-home : Page d&#8217;acceuil
+it-home : Home
+nl-home : Startpagina
+gr-home : 
+tr-home : Ana Sayfa
+
+de-impressum : Impressum
+br-impressum : Direitos Autorais
+en-impressum : Imprint
+es-impressum : pie de imprenta
+eu-impressum : 
+fr-impressum : Mentions l&eacute;gales
+nl-impressum : Impressum
+gr-impressum : 
+
+de-im_www : im WWW
+br-im_www : na web
+en-im_www : the Web
+es-im_www : en la red
+eu-im_www : du web
+fr-im_www : dans le web
+gr-im_www : WWW
+ia-im_www : a WWW
+it-im_www : il Web
+nl-im_www : in het web
+
+de-index_chapter : Inhaltsverzeichnis
+en-index_chapter : Index
+fr-index_chapter : Index
+
+de-italienisch : Italienisch
+en-italienisch : italien
+es-italienisch : 
+eu-italienisch : 
+fr-italienisch : italienne
+ia-italienisch : Italiano
+nl-italienisch : Italiaans
+gr-italienisch : 
+
+de-letzte_aenderung : Letzte&nbsp;&Auml;nderung
+en-letzte_aenderung : Actualisation
+es-letzte_aenderung : 
+eu-letzte_aenderung : 
+fr-letzte_aenderung : Derni&egrave;re&nbsp;mise&nbsp;&agrave;&nbsp;jour&nbsp;
+nl-letzte_aenderung : 
+gr-letzte_aenderung : 
+
+de-link : Link
+en-link : Link
+es-link : Vinculo
+eu-link : 
+fr-link : Lien
+nl-link : Verweijzing
+gr-link : 
+tr-link : Link
+
+de-links : Links
+en-links : Links
+es-links : Vinculos
+eu-links : 
+fr-links : Liens
+nl-links : Verweijzing
+gr-links : 
+tr-links : Linkler
+
+de-luzern : Luzern
+en-luzern : Lucerne
+it-luzern : Lucerna
+
+de-neu : Neu
+en-neu : new
+es-neu : nuevo
+eu-neu : 
+fr-neu : nouveau
+nl-neu : nieuw
+gr-neu : 
+
+de-plz : PLZ
+en-plz : Post Code
+fr-plz : Code Postal
+
+de-portugiesisch : Portugiesisch
+br-portugiesisch : Portugu&ecirc;s
+en-portugiesisch : Portuguese
+es-portugiesisch : Portugu&eacute;s
+fr-portugiesisch : Portugais
+ia-portugiesisch : Portugese
+nl-portugiesisch : Portugees
+pt-portugiesisch : Portugu&ecirc;s
+
+de-portugiesisch_br : Portugiesisch (BR)
+br-portugiesisch_br : Portugu&ecirc;s (BR)
+en-portugiesisch_br : Portuguese (BR)
+es-portugiesisch_br : Portugu&eacute;s (BR)
+fr-portugiesisch_br : Portugais (BR)
+ia-portugiesisch_br : Portugese (BR)
+nl-portugiesisch_br : Portugees (BR)
+pt-portugiesisch_br : Portugu&ecirc;s (BR)
+
+de-schweiz : Schweiz
+en-schweiz : Switzerland
+fr-schweiz : Suisse
+it-schweiz : Svizzera
+
+de-sie_sind_hier : Sie sind hier
+br-sie_sind_hier : Voc&eacute; est&aacute; em
+en-sie_sind_hier : You are here
+eu-sie_sind_hier : &rarr;
+es-sie_sind_hier : Estas aqui
+fr-sie_sind_hier : Vous avez ici
+ia-sie_sind_hier : &rarr;
+it-sie_sind_hier : Sei in
+nl-sie_sind_hier : U bent hier
+gr-sie_sind_hier : &rarr;
+
+de-sitemap : Sitemap
+br-sitemap : Mapa do Site
+en-sitemap : Sitemap
+es-sitemap : Mapa del Site
+eu-sitemap : Webgunearen mapa
+fr-sitemap : Plan du Site
+ia-sitemap : Sitemap
+it-sitemap : Mappa del sito
+nl-sitemap : Sitemap
+gr-sitemap : Sitemap
+tr-sitemap : Site Haritas&#305;
+
+de-sitemap_datei : sitemap.html
+br-sitemap_datei : mapa-do-site.html
+en-sitemap_datei : sitemap.html
+es-sitemap_datei : mapa-del-site.html
+eu-sitemap_datei : webgunearen-mapa.html
+fr-sitemap_datei : plan-du-site.html
+ia-sitemap_datei : sitemap.html
+it-sitemap_datei : mappa-del-sito.html
+nl-sitemap_datei : sitemap.html
+gr-sitemap_datei : sitemap.html
+tr-sitemap_datei : site-haritasi.html
+
+de-spanisch : Spanisch
+en-spanisch : Spanish
+es-spanisch : Espa&ntilde;ol
+eu-spanisch : 
+fr-spanisch : 
+ia-spanisch : Espaniol
+nl-spanisch : Spaans
+gr-spanisch : 
+
+de-stadt : Stadt
+en-stadt : Town
+fr-stadt : Ville
+
+de-suchbegriffe_eingeben : Geben Sie Ihre Suchbegriffe ein
+br-suchbegriffe_eingeben : Pesquisar
+en-suchbegriffe_eingeben : Enter Search String
+eu-suchbegriffe_eingeben : Bilaketa
+es-suchbegriffe_eingeben : B&uacute;squeda
+fr-suchbegriffe_eingeben : Recherchez
+ia-suchbegriffe_eingeben : Cercar
+it-suchbegriffe_eingeben : cerca
+nl-suchbegriffe_eingeben : Zoeken
+
+de-suchen : Suchen
+br-suchen : Pesquisar
+en-suchen : Search
+eu-suchen : Bilaketa
+es-suchen : B&uacute;squeda
+fr-suchen : Recherchez
+ia-suchen : Cercar
+it-suchen : cerca
+nl-suchen : Zoeken
+
+de-top : nach oben
+en-top : top
+es-top : Arriba
+eu-top : goian
+fr-top : Retour vers le haut
+it-top : Inizio pagina
+nl-top : naar boven
+tr-top : yukar&#305;
+
+de-url_dieser_seite : URL&nbsp;dieser&nbsp;Seite
+en-url_dieser_seite : URL&nbsp;of&nbsp;this&nbsp;page
+es-url_dieser_seite : URL
+eu-url_dieser_seite : URL
+fr-url_dieser_seite : URL&nbsp;de&nbsp;cette&nbsp;page&nbsp;
+ia-url_dieser_seite : URL
+nl-url_dieser_seite : URL
+gr-url_dieser_seite : URL
+
+de-vergroessern : Vergrössern
+en-vergroessern : Zoom in
+es-vergroessern : Ampliaci&oacute;n
+eu-vergroessern : 
+fr-vergroessern : Agrandissement
+nl-vergroessern : 
+gr-vergroessern : Zoom in
+
+de-next : weiter
+en-next : next
+fr-next : prochain
+
+de-prev : zurück
+en-prev : previous
+fr-prev : pr&eacute;c&eacute;dente

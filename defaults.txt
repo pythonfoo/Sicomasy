@@ -1,0 +1,28 @@
+ar-encoding        = UTF-8
+ar-google_domain   = google.com
+ar-isocode         = ar
+ar-dateformat      = Y-m-d
+
+br-encoding        = ISO-8859-1
+br-google_domain   = google.com.br
+br-google_restrict = Portugues
+br-isocode         = pt-br
+br-dateformat      = d/m/Y
+
+de-encoding            = UTF-8
+de-google_domain   = google.de
+de-isocode         = de
+de-dateformat      = d.m.Y
+
+en-encoding        = ISO-8859-1
+en-google_domain   = google.co.uk
+en-google_restrict = English
+en-isocode         = uk
+en-dateformat      = d/m/Y
+
+us-encoding        = ISO-8859-1
+us-google_domain   = google.com
+us-google_restrict = English
+us-isocode         = us
+us-dateformat      = m/d/Y
+

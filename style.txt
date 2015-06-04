@@ -1,0 +1,3 @@
+all:style.css
+print:print.css
+screen:screen.css

@@ -1,0 +1,10 @@
+de-pfad:
+en-pfad:english/
+de-kopf:mechtilde.de - Bild
+en-kopf:mechtilde.de - picture
+de-title:Homepage - Mechtilde
+en-title:Homepage - Mechtilde
+de-description:&Uuml;bersichtsseite der Interessengebiete
+en-description:Overview of interests
+de-ort:Langenfeld - Deutschland
+en-ort:Langenfeld - Germany"
