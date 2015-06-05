@@ -1,12 +1,12 @@
 de-0 : 1     # Startseite 
 #de-1 : 10    # MySQL -> OOo2.x 
-de-1 : 8     # Person
-de-2 : 20    # OpenOffice.org
+#de-1 : 8     # Person
+#de-2 : 20    # OpenOffice.org
 #de-2 : 6     # Qualitätssicherung
 #de-4 : 80    # Mail und Kalender
-de-3 : 30    # Debian
+#de-3 : 30    # Debian
 #de-5 : 40    # Diplom-Arbeit
 #de-5 : 6     # Garten-Biologie
-de-4 : 50    # Lizenz
+#de-4 : 50    # Lizenz
 de-5 : 2     # Impressum
 #en-1 : 1

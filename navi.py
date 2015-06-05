@@ -32,13 +32,13 @@ class Navigation(object):
 		self.act_langpath = paradict["act_langpath"]
 #		self.act_dir = paradict["act_dir"]
 
-		self.subnavidict = config.main("subnavi.txt")
-		configdict = config.main("config.txt")
+		self.subnavidict = config.main("sampleProject/subnavi.txt")
+		configdict = config.main("sampleProject/config.txt")
 		langstring = configdict["lang"]
 		self.langlist = langstring.split(",")
-		self.navidict = config.main("navi.txt")
-		self.seitendict = config.main("seiten.txt")
-		self.sprachendict =config.main("sprachen.txt")
+		self.navidict = config.main("sampleProject/navi.txt")
+		self.seitendict = config.main("sampleProject/seiten.txt")
+		self.sprachendict =config.main("sampleProject/sprachen.txt")
 
 		self.subnaviID = ""
 		self.target_id =    ""

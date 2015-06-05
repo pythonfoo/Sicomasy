@@ -31,7 +31,7 @@ class makeHead(object):
 
 	def file2open(self, act_id):
 		if act_id != 1:
-			self.fileRead("head.html")
+			self.fileRead("sampleProject/templates/head.html")
 			self.replaceContent()
 		else:
 			self.fileRead("head_index.html")

@@ -35,7 +35,7 @@ class makeFooter(object):
 
 
 	def fileRead(self):
-		fobj = open("footer.html", "r")
+		fobj = open("sampleProject/templates/footer.html", "r")
 		self.Content = fobj.read()
 		fobj.close()
 		self.replaceContent()
